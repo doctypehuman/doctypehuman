@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Doctype Human at your service.
+Feel free to start a [conversation](https://github.com/doctypehuman/doctypehuman/discussions).
+
+- 🔭 I’m currently working on clearing my RHCSA certification.
+- 🌱 I’m currently learning Linux
+
 <!--
 **doctypehuman/doctypehuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
