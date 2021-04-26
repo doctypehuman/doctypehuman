@@ -15,7 +15,6 @@ Other wise generally in life this is what I am busy with . . .
 
 - 🌱 I’m currently learning all things related to Linux.
 
-Feel free to start a [conversation](https://github.com/doctypehuman/doctypehuman/discussions).
 <!--
 **doctypehuman/doctypehuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
