@@ -2,11 +2,11 @@
 
 I am on my journey from being a Linux enthusiast to being a professional. My repositories are littered with notes that I made while studying. Here are some that might be helpful to you on your journey.
 
-1. [RHCSA 8 Notes](https://github.com/doctypehuman/rhcsa2021)
+* [RHCSA 8 Notes](https://github.com/doctypehuman/rhcsa2021)
 
-2. [BASH Scripting](https://github.com/doctypehuman/bash)
+* [BASH Scripting](https://github.com/doctypehuman/bash)
 
-3. [SQL Fundamentals](https://github.com/doctypehuman/sql)
+* [SQL Fundamentals](https://github.com/doctypehuman/sql)
 
 ---
 Other wise generally in life this is what I am busy with . . .
