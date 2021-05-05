@@ -2,7 +2,7 @@
 
 I am on my journey from being a Linux enthusiast to being a professional. My repositories are littered with notes that I made while studying. Here are some that might be helpful to you on your journey.
 
-* [RHCSA 8 Notes](https://github.com/doctypehuman/rhcsa2021)
+* [RHCSA 8](https://github.com/doctypehuman/rhcsa2021)
 
 * [BASH Scripting](https://github.com/doctypehuman/bash)
 
