@@ -11,9 +11,9 @@ I am on my journey from being a Linux enthusiast to being a professional. My rep
 ---
 Other wise generally in life this is what I am busy with . . .
 
-- 🔭 I’m currently working on clearing my RHCSA certification.
+- 🔭 I’m currently a certified Red Hat Administrator 
 
-- 🌱 I’m currently learning all things related to Linux.
+- 🌱 I’m currently learning Ansible and Python
 
 <!--
 **doctypehuman/doctypehuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
