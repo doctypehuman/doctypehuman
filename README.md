@@ -11,7 +11,7 @@ My name is Atif and I am on my journey from being a Linux enthusiast to being a 
 ---
 Other wise generally in life this is what I am busy with . . .
 
-- 🔭 I’m currently a certified Red Hat Administrator 
+- 🔭 I’m currently a certified Red Hat System Administrator 
 
 - 🌱 I’m currently learning Ansible and Python
 
