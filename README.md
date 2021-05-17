@@ -9,7 +9,7 @@ My name is Atif and I am on my journey from being a Linux enthusiast to being a 
 * [SQL Fundamentals](https://github.com/doctypehuman/sql)
 
 ---
-Other wise generally in life this is what I am busy with . . .
+A little more about me ...
 
 - 🔭 I’m currently a certified Red Hat System Administrator 
 
